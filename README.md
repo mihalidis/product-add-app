@@ -1,6 +1,6 @@
-# urun-ekleme
+# Product Adding App for learning Vue.js Component Structure
 
-> A Vue.js project
+> A Vue.js project from [Udemy Course](https://www.udemy.com/course/sifirdan-ileri-seviye-vuejs-2-vuex-vue-router-egitim-seti/)
 
 ## Build Setup
 
